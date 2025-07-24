@@ -1,7 +1,7 @@
 # 사이킷런 데이터 셋 모음
 
 | 함수                             | 링크                                                                                                         | 설명                                                         |
-|----------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+|----------------------------------|-------------------------------------|--------------------------------------------------------------|
 | `clear_data_home`                | https://scikit-learn.org/stable/modules/generated/sklearn.datasets.clear_data_home.html                     | 데이터 홈 디렉토리 초기화(다운로드 캐시 삭제)                |
 | `dump_svmlight_file`             | https://scikit-learn.org/stable/modules/generated/sklearn.datasets.dump_svmlight_file.html                  | 배열 데이터를 SVMLight 포맷 파일로 저장                       |
 | `fetch_20newsgroups`             | https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html                  | 20개 뉴스그룹 텍스트 분류용 데이터셋                         |
